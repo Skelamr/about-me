@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    border: 5px dotted firebrick;
+    border-radius: 10px;
+}
+p{
+   border: 5px dotted firebrick;
+    border-radius: 5px;  
+}
+header, a{
+    background-color: lightskyblue;
+}
